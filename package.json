@@ -1,0 +1,19 @@
+{
+  "name": "nhentai codes generator",
+  "version": "1.0.0",
+  "description": "Codes Generator",
+  "main": "./src/js/index.js",
+  "scripts": {
+    "test": "node ./src/js/index.js",
+    "nodemon": "nodemon ./src/js/index.js"
+  },
+  "keywords": [
+    "nhentai"
+  ],
+  "author": "Mieciu",
+  "license": "ISC",
+  "dependencies": {
+    "array": "^0.4.3",
+    "nodemon": "^2.0.15"
+  }
+}
